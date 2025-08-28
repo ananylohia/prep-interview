@@ -31,7 +31,7 @@ const LandingPage = () => {
         <div className="container mx-auto px-4 pt-6 pb-[200px] relative z-10" >
             <header className="flex justify-between items-center mb-16">
                 <div className="text-xl text-black font-bold">
-                    Interview Prep AI
+                    Interview Mate
                 </div>
                 {user? (
                     <ProfileInfoCard/>
@@ -116,7 +116,7 @@ const LandingPage = () => {
             </section>
         </div>
 <div className="text-sm text-yellow-800 text-center p-5 mt-5 bg-gradient-to-b from-[#FFFCEF] to-[#FFE680] shadow-inner">
-      🥭 Created with a touch of mango
+      🥭 Created with a touch of mango by Anany
 </div>
 
 
